@@ -1,1 +1,1 @@
-hello this the php repo
+a simple plugin that lets you modify you account configuration easy(the facebook way )
