@@ -1,1 +1,1 @@
-a simple plugin that lets you modify you account configuration easy(the facebook way )
+a simple plugin that lets you modify you account configuration easly(the facebook way )
